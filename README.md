@@ -1,4 +1,4 @@
-# TG Text2Img Bot（可 Fork 一键部署）
+# TG Text2Img Bot（一键部署）
 
 这是一个可以直接 **Fork 使用和部署** 的 Telegram 机器人模版项目，用于：
 
